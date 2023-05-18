@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locadora.cs", "Locadora.cs\Locadora.cs.csproj", "{F8D4FE1F-F11B-47E5-8918-4A708A55209D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraClasses", "LocadoraClasses\LocadoraClasses.csproj", "{62410C90-688A-4B3F-A16A-656A2A2E65A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8D4FE1F-F11B-47E5-8918-4A708A55209D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D4FE1F-F11B-47E5-8918-4A708A55209D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D4FE1F-F11B-47E5-8918-4A708A55209D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D4FE1F-F11B-47E5-8918-4A708A55209D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62410C90-688A-4B3F-A16A-656A2A2E65A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62410C90-688A-4B3F-A16A-656A2A2E65A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62410C90-688A-4B3F-A16A-656A2A2E65A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62410C90-688A-4B3F-A16A-656A2A2E65A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02070D93-306D-4E4D-9999-431F4D2F204B}
+	EndGlobalSection
+EndGlobal
